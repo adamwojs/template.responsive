@@ -155,6 +155,13 @@ $(document).ready(function() {
                         $(scrollElem).animate({scrollTop:targetOffset}, 400, function ()
                         {
                             location.hash = target;
+
+                            // Highlight target
+                            $target.next().animate({
+                            	'backgroundColor': '#ff8080'
+                            }).animate({
+                            	'backgroundColor': '#ffffff'
+                            });
                         });
                     });
                 }

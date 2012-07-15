@@ -169,6 +169,7 @@
         <script src="{$root}js/jquery-1.7.1.min.js" type="text/javascript"></script>
         <script src="{$root}js/jquery-ui-1.8.2.custom.min.js" type="text/javascript"></script>
         <script src="{$root}js/jquery.mousewheel.min.js" type="text/javascript"></script>
+        <script src="{$root}js/jquery.animate-colors-min.js" type="text/javascript"></script>
         <script src="{$root}js/bootstrap.js" type="text/javascript"></script>
         <script src="{$root}js/template.js" type="text/javascript"></script>
         <script src="{$root}js/prettify/prettify.min.js" type="text/javascript"></script>
